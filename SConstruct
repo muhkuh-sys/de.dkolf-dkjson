@@ -46,7 +46,7 @@ aGroup = strGroup.split('.')
 strModulePath = 'targets/jonchki/repository/%s/%s/%s' % ('/'.join(aGroup), strModule, PROJECT_VERSION)
 
 # Set the name of the artifact.
-strArtifact = 'argparse'
+strArtifact = 'dkjson'
 
 tArcList = atEnv.DEFAULT.ArchiveList('zip')
 
