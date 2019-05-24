@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jonchki-artifact version="1.0">
+	<info group="de.dkolf"
+	      module="dkjson"
+	      artifact="dkjson"
+	      version="${PROJECT_VERSION}"
+	      vcs-id="${PROJECT_VERSION_VCS}">
+		<license name="MIT/X11"/>
+		<author name="David Heiko Kolf" url="http://dkolf.de/src/dkjson-lua.fsl/home" />
+		<description>
+			David Kolf's JSON module for Lua.
+		</description>
+	</info>
+	<dependencies>
+		<dependency group="org.lua" module="lua" artifact="lua" version="5.3"/>
+	</dependencies>
+	<dependencies>
+		<dependency group="org.lua" module="lua" artifact="lua" version="5.2"/>
+	</dependencies>
+	<dependencies>
+		<dependency group="org.lua" module="lua" artifact="lua" version="5.1"/>
+	</dependencies>
+</jonchki-artifact>
