@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="mbs/setup2html.xsl"?>
 
-<muhkuh_buildsystem project="de.dkolf-dkjson">
+<muhkuh_buildsystem group="de.dkolf" module="dkjson">
 	<project_version>2.5.2.2</project_version>
 
 	<scons>

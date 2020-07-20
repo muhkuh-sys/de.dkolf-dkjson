@@ -37,8 +37,8 @@ import tarfile
 # Build the artifacts.
 #
 
-strGroup = 'de.dkolf'
-strModule = 'dkjson'
+strGroup = PROJECT_GROUP
+strModule = PROJECT_MODULE
 
 # Split the group by dots.
 aGroup = strGroup.split('.')
