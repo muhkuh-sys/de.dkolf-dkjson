@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="mbs/setup2html.xsl"?>
 
 <muhkuh_buildsystem group="de.dkolf" module="dkjson">
-	<project_version>2.5.2.2</project_version>
+	<project_version>2.6.1</project_version>
 
 	<scons>
 		<group>org.scons</group>
